@@ -5,7 +5,7 @@
     <description>WORDPRESS SHOP TEST</description>
     <author email="chris@" href="http://104.155.214.14">AGOTH Webmaster</author>
 
-    <preference name="phonegap-version" value="3.6.0" />
+    <preference name="phonegap-version" value="3.7.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
